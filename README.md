@@ -23,7 +23,7 @@ Analyzed 120 simulated sales records from September 2026 to evaluate product per
 - **Highest unit sales:** Headphones, with 55 units sold.
 
 ## Dashboard
-*Tableau Public dashboard link coming soon.*
+The Tableau dashboard summarizes revenue, units sold, and daily sales trends.
 
 ## Project Files
 - `Sales.ipynb`: Python analysis and SQL queries.
