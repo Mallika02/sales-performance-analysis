@@ -1,4 +1,3 @@
-# sales-performance-analysis
 Sales analysis project using Python, pandas, SQL, and Tableau Public
 
 # Sales Performance Analysis
@@ -24,7 +23,7 @@ Analyzed 120 simulated sales records from September 2026 to evaluate product per
 - **Highest unit sales:** Headphones, with 55 units sold.
 
 ## Dashboard
-[View the interactive Tableau dashboard](PASTE_YOUR_TABLEAU_PUBLIC_URL_HERE)
+*Tableau Public dashboard link coming soon.*
 
 ## Project Files
 - `Sales.ipynb`: Python analysis and SQL queries.
